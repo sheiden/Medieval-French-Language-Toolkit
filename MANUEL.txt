@@ -29,17 +29,15 @@ Le lexique FROLEX est une compilation de ressources provenant de :
 
 --- Liste des sources(1) ---
 
+- C : formes extraites des "Chartes de l'Aube" (Piet van Reenen, corpus disponbile sur le site du Nouveau Corpus d'Amsterdam)
 - G : dictionnaire de Godefroy
 - I : textes du LFA (indexes)
 - M : formes verbales compilées par R. Martin
-- S : liste de morphèmes grammaticaux
+- S : liste de morphèmes grammaticaux dressée manuellement par Pierre Kunstmann et Achim Stein
 - T : dictionnaire de Tobler/Lommatzsch
-L’astérisque indique qu’une forme non lemmatisée a été attribuée à un lemme-source grâce à un ensemble de règles morphologiques.
-
+- Z : répertoire de formes étiquetées manuellement par Pierre Kunstmann et Achim Stein
+L’astérisque indique qu’une forme non lemmatisée a été attribuée à un lemme-source grâce à un ensemble de règles morphologiques
 
 --- Sources restant à identifier ---
 
-- D 
-- C
-- Z
-
+- D
