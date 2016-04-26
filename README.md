@@ -10,7 +10,7 @@ Le lexique FROLEX est une compilation de ressources provenant de :
 
 Contenu de l'entrepôt :
 
--   frolex.tsv : le lexique
+-   frolex-1.0.tsv : le lexique
 -   MANUAL : description du lexique
 -   README.md : description du contenu de l'entrepôt (ce fichier)
 -   COPYRIGHT : description des institutions, personnes et
