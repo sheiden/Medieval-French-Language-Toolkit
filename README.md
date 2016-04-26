@@ -15,7 +15,7 @@ Contenu de l'entrepôt :
 -   README.md : description du contenu de l'entrepôt (ce fichier)
 -   COPYRIGHT : description des institutions, personnes et
     financements ayant contribué au lexique
--   LICENCE : description des deux licences de diffusion de frolex
+-   LICENSE : description des deux licences de diffusion de frolex
 -   CC-BY-NC-SA : définition de la licence Creative Commons
     'Attribution - Pas d'Utilisation Commerciale - Partage à
     l'Identique' 3.0 France
