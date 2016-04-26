@@ -1,0 +1,45 @@
+      --- ﻿Manuel du lexique FROLEX ---
+
+ Céline Guillot    (celine.guillot@ens-lyon.fr)
+      Serge Heiden     (slh@ens-lyon.fr)
+ Alexei Lavrentiev (alexei.lavrentev@ens-lyon.fr)
+
+                 février 2016
+
+(Ce document est publié dans le cadre de la licence Creative
+Commons « Paternité-Pas d’Utilisation Commerciale-Partage
+des Conditions Initiales à l’Identique 2.0 France.)
+
+
+Le lexique FROLEX est une compilation de ressources provenant de :
+- a) Le Nouveau corpus d’Amsterdam (resp. A. Stein) : http://www.uni-stuttgart.de/lingrom/stein/corpus  
+- b) La base de français médiéval : http://txm.bfm-corpus.org 
+
+
+--- Titres des colonnes ---
+
+- Colonne A (form) : forme
+- Colonne B (F_bfm) : fréquence de la forme dans la BFM
+- Colonne C (msd_afrlex) : étiquette morphosyntaxique du NCA
+- Colonne D (msd_bfm) : étiquette morphosyntaxique Cattex2009 provenant des textes étiquetés de la BFM (textes vérifiés) ; _nopos_ pour les formes provenant des textes non étiquetés
+- Colonne E (msd_cattex_conv) : traduction des étiquettes du NCA et de la BFM vers une version du jeu Cattex2009 compatible avec les deux sources (par suppression des distinctions absentes dans l’un des deux corpus)
+- Colonne F (lemma) : forme du lemme
+- Colonne G (lemma_src) : source(s) du lemme
+
+
+--- Liste des sources(1) ---
+
+- G : dictionnaire de Godefroy
+- I : textes du LFA (indexes)
+- M : formes verbales compilées par R. Martin
+- S : liste de morphèmes grammaticaux
+- T : dictionnaire de Tobler/Lommatzsch
+L’astérisque indique qu’une forme non lemmatisée a été attribuée à un lemme-source grâce à un ensemble de règles morphologiques.
+
+
+--- Sources restant à identifier ---
+
+- D 
+- C
+- Z
+

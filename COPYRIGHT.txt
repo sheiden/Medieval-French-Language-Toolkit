@@ -1,0 +1,34 @@
+© 1987 Free University of Amsterdam
+© 2007 University of Stuttgart, University of Ottawa
+© 2015 ENS de Lyon, CNRS
+
+--- Contributeurs ---
+
+    Équipe BFM (ENS de Lyon, CNRS)
+    Achim Stein (University of Stuttgart)
+    Pierre Kunstmann (University of Ottawa)
+    Pieter van Reenen (Free University of Amsterdam)
+    Anthonij Dees (Free University of Amsterdam)
+
+--- Ce projet a été financé en partie par ---
+
+    Alexander von Humboldt-Stiftung (AvH)
+    Canadian Social Sciences and Humanities Research Council (SSHRC/CRSH)
+    Agence nationale de la recherche (ANR)
+    Deutsche Forschungsgemeinschaft (DFG)
+
+--- Conditions générales d'utilisation ---
+
+Les conditions générales de la Charte régissant les conditions d'accès et d'utilisation de la Base de Français Médiéval (http://txm.bfm-corpus.org/bfm/files/CGU.pdf), et notamment son Article 4 « PROPRIETE INTELLECTUELLE - DROIT D'AUTEUR », s'appliquent au lexique frolex.
+
+--- Licences d'utilisation du lexique frolex ---
+
+Ce lexique numérique est mis à disposition selon les termes de deux licences utilisables au choix, voir le fichier LICENCE :
+
+- la licence Creative Commons 'Attribution - Pas d'Utilisation Commerciale - Partage à l'Identique' 3.0 France (http://creativecommons.org/licenses/by-nc-sa/3.0/fr), avec une condition supplémentaire d'offrir à la BFM toutes les modifications apportées. Le projet BFM se réserve le droit d'intégrer ou non ces modifications au sein du lexique frolex en citant leurs auteurs. Pour toute question relative à l'usage de ce fichier ou pour proposer une modification, merci de contacter : Céline Guillot (bfm@ens-lyon.fr).
+- la licence LGPLLR - Lesser General Public License For Linguistic Resources (http://infolingu.univ-mlv.fr/DonneesLinguistiques/Lexiques-Grammaires/lgpllr.html)
+
+--- Comment citer ce lexique (Attribution) ---
+
+Lexique frolex, édité par l'Équipe BFM, 2015. Publié en ligne par la Base de français médiéval, http://catalog.bfm-corpus.org/frolex. Dernière révision le 2015-12-24.
+
