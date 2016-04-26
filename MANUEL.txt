@@ -1,8 +1,9 @@
-      --- ﻿Manuel du lexique FROLEX ---
+      --- Manuel du lexique FROLEX ---
 
- Céline Guillot (celine.guillot@ens-lyon.fr)
-      Serge Heiden (slh@ens-lyon.fr)
- Alexei Lavrentiev (alexei.lavrentev@ens-lyon.fr)
+ Céline Guillot (celine.guillot AT ens-lyon.fr)
+      Serge Heiden (slh AT ens-lyon.fr)
+ Alexei Lavrentiev (alexei.lavrentev AT ens-lyon.fr)
+ Achim Stein (Institut für Linguistik/Romanistik, U. Stuttgart)
 
                  février 2016
 
