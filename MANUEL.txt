@@ -1,12 +1,12 @@
       --- ﻿Manuel du lexique FROLEX ---
 
- Céline Guillot    (celine.guillot@ens-lyon.fr)
-      Serge Heiden     (slh@ens-lyon.fr)
+ Céline Guillot (celine.guillot@ens-lyon.fr)
+      Serge Heiden (slh@ens-lyon.fr)
  Alexei Lavrentiev (alexei.lavrentev@ens-lyon.fr)
 
                  février 2016
 
-(Ce document est publié dans le cadre de la licence Creative
+(Ce document est publié sous licence Creative
 Commons « Paternité-Pas d’Utilisation Commerciale-Partage
 des Conditions Initiales à l’Identique 2.0 France.)
 
