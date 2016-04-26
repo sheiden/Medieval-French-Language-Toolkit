@@ -11,13 +11,13 @@ Le lexique FROLEX est une compilation de ressources provenant de :
 Contenu de l'entrepôt :
 
 -   frolex.tsv : le lexique
--   MANUEL.txt : description du lexique
+-   MANUAL : description du lexique
 -   README.md : description du contenu de l'entrepôt (ce fichier)
--   COPYRIGHT.txt : description des institutions, personnes et
+-   COPYRIGHT : description des institutions, personnes et
     financements ayant contribué au lexique
--   LICENCE.txt : description des deux licences de diffusion de frolex
--   CC-BY-NC-SA.txt : définition de la licence Creative Commons
+-   LICENCE : description des deux licences de diffusion de frolex
+-   CC-BY-NC-SA : définition de la licence Creative Commons
     'Attribution - Pas d'Utilisation Commerciale - Partage à
     l'Identique' 3.0 France
--   LGPLLR.txt : définition de la licence Lesser General Public License
+-   LGPLLR : définition de la licence Lesser General Public License
     For Linguistic Resources
