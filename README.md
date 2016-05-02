@@ -8,7 +8,11 @@ Le lexique FROLEX est une compilation de ressources provenant de :
 - Le Nouveau corpus d’Amsterdam (resp. A. Stein) : http://www.uni-stuttgart.de/lingrom/stein/corpus  
 - La base de français médiéval (resp. C. Guillot) : http://txm.bfm-corpus.org 
 
-Contenu de l'entrepôt :
+## Téléchargement
+
+https://github.com/sheiden/Medieval-French-Language-Toolkit/archive/master.zip
+
+## Contenu de l'entrepôt
 
 -   frolex-1.0.tsv : le lexique
 -   MANUAL : description du lexique
