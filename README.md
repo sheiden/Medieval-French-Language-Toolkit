@@ -5,8 +5,8 @@ Cet entrepôt contient le lexique morphologique FROLEX du français du IX<sup>i�
 
 Le lexique FROLEX est une compilation de ressources provenant de :
 
-- Le Nouveau corpus d’Amsterdam (resp. A. Stein) : http://www.uni-stuttgart.de/lingrom/stein/corpus  
-- La base de français médiéval (resp. C. Guillot) : http://txm.bfm-corpus.org 
+- Le Nouveau corpus d’Amsterdam (resp. A. Stein) : http://www.uni-stuttgart.de/lingrom/stein/corpus
+- La Base de français médiéval (resp. C. Guillot) : http://txm.bfm-corpus.org 
 
 ## Téléchargement
 
