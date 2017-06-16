@@ -14,7 +14,7 @@ https://github.com/sheiden/Medieval-French-Language-Toolkit/archive/master.zip
 
 ## Contenu de l'entrepôt
 
--   frolex-1.0.tsv : le lexique
+-   frolex.tsv : le lexique
 -   MANUAL : description du lexique
 -   README.md : description du contenu de l'entrepôt (ce fichier)
 -   COPYRIGHT : description des institutions, personnes et
