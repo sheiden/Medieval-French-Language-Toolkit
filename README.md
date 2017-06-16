@@ -10,7 +10,7 @@ Le lexique FROLEX est une compilation de ressources provenant de :
 
 ## Téléchargement
 
-https://github.com/sheiden/Medieval-French-Language-Toolkit/releases/download/1.0.0/Medieval-French-Language-Toolkit-1.0.zip
+https://github.com/sheiden/Medieval-French-Language-Toolkit/releases
 
 ## Contenu de l'entrepôt
 
