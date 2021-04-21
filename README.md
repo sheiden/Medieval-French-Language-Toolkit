@@ -30,3 +30,6 @@ https://github.com/sheiden/Medieval-French-Language-Toolkit/releases
 - MANUAL.md : description du lexique et de la table de correspondance
 - README.md : description du contenu de l'entrepôt (ce fichier)
 
+## Contact
+
+alexei.lavrentev AT ens-lyon.fr
